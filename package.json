@@ -18,10 +18,14 @@
   },
   "homepage": "https://github.com/Ant123-del/NewStart-Backend#readme",
   "dependencies": {
+    "bcrypt": "^5.0.1",
     "body-parser": "^1.20.0",
     "cors": "^2.8.5",
     "express": "^4.18.1",
-    "install": "^0.13.0"
+    "express-session": "^1.17.3",
+    "express-sessions": "^1.0.6",
+    "install": "^0.13.0",
+    "passport": "^0.6.0"
   },
   "engines": {
     "node": "16.13.0"
