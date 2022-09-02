@@ -1,0 +1,29 @@
+{
+  "name": "newstart-backend",
+  "version": "1.0.0",
+  "description": "newstart api",
+  "main": "Backend.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node Backend.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ant123-del/NewStart-Backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ant123-del/NewStart-Backend/issues"
+  },
+  "homepage": "https://github.com/Ant123-del/NewStart-Backend#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "install": "^0.13.0"
+  },
+  "engines": {
+    "node": "16.13.0"
+  }
+}
