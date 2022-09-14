@@ -25,7 +25,9 @@
     "express-session": "^1.17.3",
     "express-sessions": "^1.0.6",
     "install": "^0.13.0",
-    "passport": "^0.6.0"
+    "passport": "^0.6.0",
+    "pg": "^8.8.0",
+    "uniqid": "^5.4.0"
   },
   "engines": {
     "node": "16.13.0"
